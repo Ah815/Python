@@ -60,15 +60,15 @@
 # print ('The employee perfoemance is: ',performance)
 
 # Question 5 – Restaurant Menu and Order System
-# items = ["Burger", "Pizza", "Biryani", "Pasta"]
-# prices = [500, 1200, 450, 800]
-# item = input("Enter item name: ")
+items = ["Burger", "Pizza", "Biryani", "Pasta"]
+prices = [500, 1200, 450, 800]
+item = input("Enter item name: ")
 
-# if item in items:
-#     index = items.index(item)
-#     print ("price:", prices[index])
-# else: 
-#     print('item not avaliable')
+if item in items:
+    index = items.index(item)
+    print ("price:", prices[index])
+else: 
+    print('item not avaliable')
 
 # Question 6 – Temperature Monitoring System
 # temperatures = [38, 41, 35, 29, 42]
@@ -161,47 +161,47 @@
 #     print('stock not avaliable')
 
 # Question 10 – Mobile Data Usage Monitoring System
-data_usage = [2.5, 4.2, 7.8, 3.1, 9.5, 5.6, 1.8]
-total = data_usage[0] + data_usage[1] + data_usage[2] + data_usage[3] + data_usage[4] + data_usage[5] + data_usage[6] 
-print ('the total is: ',total)
+# data_usage = [2.5, 4.2, 7.8, 3.1, 9.5, 5.6, 1.8]
+# total = data_usage[0] + data_usage[1] + data_usage[2] + data_usage[3] + data_usage[4] + data_usage[5] + data_usage[6] 
+# print ('the total is: ',total)
 
-if total >= 30:
-    Category = 'High Usage'
-elif total >= 30:
-    Category = 'Moderate Usage'
-else:
-    Category = 'Low Usage'
-print('the category is: ', Category)
+# if total >= 30:
+#     Category = 'High Usage'
+# elif total >= 30:
+#     Category = 'Moderate Usage'
+# else:
+#     Category = 'Low Usage'
+# print('the category is: ', Category)
 
-highest = data_usage[0]
+# highest = data_usage[0]
 
-if data_usage[1] > highest:
-    highest = data_usage[1]
-if data_usage[2] > highest:
-    highest = data_usage[2]    
-if data_usage[3] > highest:
-    highest = data_usage[3]
-if data_usage[4] > highest:
-    highest = data_usage[4]
-if data_usage[5] > highest:
-    highest = data_usage[5]
-if data_usage[6] > highest:
-    highest = data_usage[6]
+# if data_usage[1] > highest:
+#     highest = data_usage[1]
+# if data_usage[2] > highest:
+#     highest = data_usage[2]    
+# if data_usage[3] > highest:
+#     highest = data_usage[3]
+# if data_usage[4] > highest:
+#     highest = data_usage[4]
+# if data_usage[5] > highest:
+#     highest = data_usage[5]
+# if data_usage[6] > highest:
+#     highest = data_usage[6]
 
-print('the highest data usage is: ', highest)
+# print('the highest data usage is: ', highest)
 
-lowest = data_usage[0]
+# lowest = data_usage[0]
 
-if data_usage[1] < lowest:
-    lowest = data_usage[1]
-if data_usage[2] < lowest:
-    lowest = data_usage[2]    
-if data_usage[3] < lowest:
-    lowest = data_usage[3]
-if data_usage[4] < lowest:
-    lowest = data_usage[4]
-if data_usage[5] < lowest:
-    lowest = data_usage[5]
-if data_usage[6] <lowest:
-    lowest = data_usage[6]
-print('the lowest data usage is: ', lowest)
+# if data_usage[1] < lowest:
+#     lowest = data_usage[1]
+# if data_usage[2] < lowest:
+#     lowest = data_usage[2]    
+# if data_usage[3] < lowest:
+#     lowest = data_usage[3]
+# if data_usage[4] < lowest:
+#     lowest = data_usage[4]
+# if data_usage[5] < lowest:
+#     lowest = data_usage[5]
+# if data_usage[6] <lowest:
+#     lowest = data_usage[6]
+# print('the lowest data usage is: ', lowest)
