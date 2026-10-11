@@ -1,0 +1,3 @@
+Error: File not found.
+Error: Invalid input.
+Error: Something went wrong.
