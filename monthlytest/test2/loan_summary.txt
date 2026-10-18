@@ -1,0 +1,8 @@
+LOAN SUMMARY
+================================
+Principal         : 100,000.00
+Annual Rate (%)   : 18.00
+Tenure (months)   : 18
+Monthly EMI       : 6,380.58
+Total Repayment   : 114,850.44
+Total Interest    : 14,850.44

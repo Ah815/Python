@@ -1,0 +1,17 @@
+
+========== Career Analysis Report ==========
+Name: Ahmed
+Age: 24
+Qualification: bs
+Favorite Subject: Physics
+Strongest Subject: Mathematics
+Skills: Problem Solving
+Interests: Teaching
+Work Style: Creative Work
+Recommended Careers:
+  1. Software Engineer (27%)
+  2. AI Engineer (25%)
+  3. Data Scientist (25%)
+  4. Accountant (23%)
+  5. Teacher (23%)
+============================================
