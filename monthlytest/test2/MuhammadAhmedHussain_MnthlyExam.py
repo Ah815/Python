@@ -54,7 +54,7 @@ def calculate_totals(emi, principal, tenure):
     return total_repayment, total_interest
 
 
-# def generate_repayment_schedule(principal, rate, tenure, emi):
+def generate_repayment_schedule(principal, rate, tenure, emi):
     monthly_rate = rate / 12 / 100
     schedule = []
     opening_balance = round(principal, 2)
