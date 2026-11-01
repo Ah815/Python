@@ -1,0 +1,34 @@
+{
+  "EMP001": {
+    "id": "EMP001",
+    "name": "ahmed",
+    "department": "web dev",
+    "designation": "developer",
+    "salary": 45000.0,
+    "joining_date": "2025-10-01"
+  },
+  "EMP002": {
+    "id": "EMP002",
+    "name": "Maya Khan",
+    "department": "Human Resources",
+    "designation": "Recruiter",
+    "salary": 60000.0,
+    "joining_date": "2026-01-01"
+  },
+  "EMP003": {
+    "id": "EMP003",
+    "name": "Bilal Ahmed",
+    "department": "IT",
+    "designation": "Support Engineer",
+    "salary": 52000.0,
+    "joining_date": "2026-01-03"
+  },
+  "EMP004": {
+    "id": "EMP004",
+    "name": "Ali Khan",
+    "department": "QA",
+    "designation": "tester",
+    "salary": 25000.0,
+    "joining_date": "2026-01-01"
+  }
+}

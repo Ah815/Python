@@ -1,0 +1,26 @@
+====================================================
+             Acme Corporation Pvt. Ltd.             
+                    SALARY SLIP                     
+====================================================
+Employee ID   : EMP002
+Employee Name : Maya Khan
+Department    : Human Resources
+Designation   : Recruiter
+Payroll Month : 2026-01
+----------------------------------------------------
+Basic Salary        : 60000.00
+Present Days        : 1
+Absent Days         : 1
+Leave Days          : 0
+Half Days           : 1
+Unpaid Days (calc)  : 1.5
+----------------------------------------------------
+Daily Salary        : 2307.69
+Overtime Hours      : 1.0
+Overtime Rate (hr)  : 288.46
+Overtime Compensation: 288.46
+Unpaid Deduction    : 3461.54
+----------------------------------------------------
+Gross Salary        : 60288.46
+NET SALARY          : 56826.92
+====================================================

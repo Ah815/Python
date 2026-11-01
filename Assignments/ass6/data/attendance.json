@@ -1,0 +1,74 @@
+[
+  {
+    "emp_id": "EMP001",
+    "date": "2025-10-01",
+    "status": "Present",
+    "check_in": "09:00",
+    "check_out": "17:00",
+    "hours": 8.0,
+    "overtime": 0.0
+  },
+  {
+    "emp_id": "EMP002",
+    "date": "2026-01-05",
+    "status": "Present",
+    "check_in": "09:00",
+    "check_out": "18:00",
+    "hours": 9.0,
+    "overtime": 1.0
+  },
+  {
+    "emp_id": "EMP002",
+    "date": "2026-01-06",
+    "status": "Half Day",
+    "check_in": null,
+    "check_out": null,
+    "hours": 0.0,
+    "overtime": 0.0
+  },
+  {
+    "emp_id": "EMP002",
+    "date": "2026-01-07",
+    "status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "hours": 0.0,
+    "overtime": 0.0
+  },
+  {
+    "emp_id": "EMP003",
+    "date": "2026-01-05",
+    "status": "Present",
+    "check_in": "09:00",
+    "check_out": "17:00",
+    "hours": 8.0,
+    "overtime": 0.0
+  },
+  {
+    "emp_id": "EMP003",
+    "date": "2026-01-06",
+    "status": "Present",
+    "check_in": null,
+    "check_out": null,
+    "hours": 0.0,
+    "overtime": 0.0
+  },
+  {
+    "emp_id": "EMP003",
+    "date": "2026-01-07",
+    "status": "Leave",
+    "check_in": null,
+    "check_out": null,
+    "hours": 0.0,
+    "overtime": 0.0
+  },
+  {
+    "emp_id": "EMP001",
+    "date": "2025-10-02",
+    "status": "Present",
+    "check_in": null,
+    "check_out": null,
+    "hours": 0.0,
+    "overtime": 0.0
+  }
+]

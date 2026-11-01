@@ -1,0 +1,26 @@
+====================================================
+             Acme Corporation Pvt. Ltd.             
+                    SALARY SLIP                     
+====================================================
+Employee ID   : EMP001
+Employee Name : ahmed
+Department    : web dev
+Designation   : developer
+Payroll Month : 2025-10
+----------------------------------------------------
+Basic Salary        : 45000.00
+Present Days        : 2
+Absent Days         : 0
+Leave Days          : 0
+Half Days           : 0
+Unpaid Days (calc)  : 0.0
+----------------------------------------------------
+Daily Salary        : 1730.77
+Overtime Hours      : 0.0
+Overtime Rate (hr)  : 216.35
+Overtime Compensation: 0.00
+Unpaid Deduction    : 0.00
+----------------------------------------------------
+Gross Salary        : 45000.00
+NET SALARY          : 45000.00
+====================================================

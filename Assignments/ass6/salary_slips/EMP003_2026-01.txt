@@ -1,0 +1,26 @@
+====================================================
+             Acme Corporation Pvt. Ltd.             
+                    SALARY SLIP                     
+====================================================
+Employee ID   : EMP003
+Employee Name : Bilal Ahmed
+Department    : IT
+Designation   : Support Engineer
+Payroll Month : 2026-01
+----------------------------------------------------
+Basic Salary        : 52000.00
+Present Days        : 2
+Absent Days         : 0
+Leave Days          : 1
+Half Days           : 0
+Unpaid Days (calc)  : 0.0
+----------------------------------------------------
+Daily Salary        : 2000.00
+Overtime Hours      : 0.0
+Overtime Rate (hr)  : 250.00
+Overtime Compensation: 0.00
+Unpaid Deduction    : 0.00
+----------------------------------------------------
+Gross Salary        : 52000.00
+NET SALARY          : 52000.00
+====================================================
